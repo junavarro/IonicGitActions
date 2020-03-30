@@ -1,5 +1,7 @@
 {
   "name": "GitActions",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
